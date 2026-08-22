@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ruff_cache/
+.env
+resources/accounts.txt
+resources/proxy.txt
+resources/captcha_key.txt
+errors.csv
+messages_audit.csv
+*.log
